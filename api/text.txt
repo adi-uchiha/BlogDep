@@ -1,0 +1,2 @@
+cloudinary .env setup
+cloudinary config file
